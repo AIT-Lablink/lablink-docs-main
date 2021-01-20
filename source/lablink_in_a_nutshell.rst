@@ -164,12 +164,12 @@ Currently the Lablink core implements two services:
   The datapoint service allows the exchange of simple values between Lablink clients.
   The datapoint server provides the exchange of these values using simple get and set methods.
   It also provides state information to the client, like the detection of an established connection between the clients or the notification of changed or received new values from a remote client.
-  The `datapoint bridge <https://mosaik-docker.readthedocs.io/projects/lablink-core-java>`_ is a standalone Lablink client that implements and uses this service.
+  The `datapoint bridge <https://ait-lablink.readthedocs.io/projects/ait-lablink-core-java>`_ is a standalone Lablink client that implements and uses this service.
 
 * **Sync Service**: 
   The sync service provides the time synchronization between the Lablink clients.
   This service will be used if the Lablink works as a Co- or HIL-Simulation framework.
-  The `synchronization host <https://mosaik-docker.readthedocs.io/projects/lablink-sync-host>`__ is a standalone Lablink client that uses and implements this service.
+  The `synchronization host <https://ait-lablink.readthedocs.io/projects/ait-lablink-sync-host>`__ is a standalone Lablink client that uses and implements this service.
 
 Lablink Application Interface Concepts
 ======================================
