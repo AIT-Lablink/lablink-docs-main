@@ -42,3 +42,4 @@ The AIT Lablink is a modular framework, comprising the following components:
 * `Synchronization host <https://ait-lablink.readthedocs.io/projects/ait-lablink-sync-host>`_: a standalone Lablink client that provides the functionality to synchronize clients during a simulation run
 * `Plotter <https://ait-lablink.readthedocs.io/projects/ait-lablink-plotter>`_: clients for visualizing data as plotted graphs in a separate window
 * `FMU Simulator <https://ait-lablink.readthedocs.io/projects/ait-lablink-fmusim>`_: provides clients that can import and execute Functional Mock-up Units (FMUs)
+* `OPC UA client <https://ait-lablink.readthedocs.io/projects/ait-lablink-opc-ua-client>`_: provides an adapter to communicate via OPC UA with external resources
