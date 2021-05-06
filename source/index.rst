@@ -5,6 +5,10 @@ Welcome to the AIT Lablink documentation!
 .. meta::
    :description lang=en: AIT Lablink laboratory middleware
 
+.. image:: img/lablink-architecture-animated.svg
+   :align: center
+   :alt: Lablink System Architecture
+
 The **AIT Lablink** aims at supporting an efficient, modular and flexible development and evaluation environment, which focuses on laboratory hardware and software equipment.
 Its main goal is to support and automate common tasks such as coupling components, logging results and automating test cases.
 
