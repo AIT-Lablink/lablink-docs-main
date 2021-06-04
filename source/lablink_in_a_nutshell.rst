@@ -184,3 +184,10 @@ Therefore a synchronization of the callback methods can be necessary.
 
 All methods of the Lablink core that a client calls will be executed synchronously. 
 This means that the method can be blocked by the core.
+
+
+****************
+Lablink examples
+****************
+
+To get your fingers dirty and run a few simple Lablink setups, you can go through the `Lablink examples <https://ait-lablink.readthedocs.io/projects/ait-lablink-examples>`_.

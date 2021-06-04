@@ -25,7 +25,7 @@ Getting started
 
 :doc:`Lablink in a Nutshell <lablink_in_a_nutshell>` gives a brief overview of the main concepts of the AIT Lablink.
 
-To get your fingers dirty and run a few Lablink setups, you can go through the `Lablink examples <https://ait-lablink.readthedocs.io/projects/ait-lablink-examples>`_.
+To get your fingers dirty and run a few simple Lablink setups, you can go through the `Lablink examples <https://ait-lablink.readthedocs.io/projects/ait-lablink-examples>`_.
 
 .. toctree::
    :maxdepth: 2
@@ -38,12 +38,12 @@ To get your fingers dirty and run a few Lablink setups, you can go through the `
 The Lablink framework
 =====================
 
-The AIT Lablink is a modular framework, comprising the following components:
+The AIT Lablink is a modular framework that comes with a collection of readily available clients.
+For more information, please take a look :doc:`here <framework>`.
 
-* `Lablink Core <https://ait-lablink.readthedocs.io/projects/ait-lablink-core-java>`_: a common middleware that handles communication among distributed clients
-* `Datapoint Bridge <https://ait-lablink.readthedocs.io/projects/ait-lablink-datapoint-bridge>`_: provides the connection between the datapoints (also called services, inputs, outputs etc.) of Lablink clients
-* `Configuration server <https://ait-lablink.readthedocs.io/projects/ait-lablink-config-server>`_: a simple server for Lablink setups
-* `Synchronization host <https://ait-lablink.readthedocs.io/projects/ait-lablink-sync-host>`_: a standalone Lablink client that provides the functionality to synchronize clients during a simulation run
-* `Plotter <https://ait-lablink.readthedocs.io/projects/ait-lablink-plotter>`_: clients for visualizing data as plotted graphs in a separate window
-* `FMU Simulator <https://ait-lablink.readthedocs.io/projects/ait-lablink-fmusim>`_: provides clients that can import and execute Functional Mock-up Units (FMUs)
-* `OPC UA client <https://ait-lablink.readthedocs.io/projects/ait-lablink-opc-ua-client>`_: provides an adapter to communicate via OPC UA with external resources
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: The Lablink framework
+
+   /framework
