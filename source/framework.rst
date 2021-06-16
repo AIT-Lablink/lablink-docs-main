@@ -40,7 +40,7 @@ The `FMU Simulator <https://ait-lablink.readthedocs.io/projects/ait-lablink-fmus
 CSV client
 ==========
 
-The `CSV client <https://ait-lablink.readthedocs.io/projects/ait-lablink-redis-client>`_ provides a data source using CSV data.
+The `CSV client <https://ait-lablink.readthedocs.io/projects/ait-lablink-csv-client>`_ provides a data source using CSV data.
 
 Plotter
 =======
