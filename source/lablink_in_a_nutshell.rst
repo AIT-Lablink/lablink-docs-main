@@ -190,4 +190,9 @@ This means that the method can be blocked by the core.
 Lablink examples
 ****************
 
-To get your fingers dirty and run a few simple Lablink setups, you can go through the `Lablink examples <https://ait-lablink.readthedocs.io/projects/ait-lablink-examples>`_.
+To get started with using Lablink, you may start with the following examples:
+
+ * `OPC UA Client Test Setup <https://github.com/AIT-Lablink/lablink-opcua-client-test>`__:
+   A simple Lablink setup for connecting an OPC UA server with a data source and a plotter, a good starting point for  undestanding how to use the available Lablink resources for your own purposes.
+ * `Lablink examples <https://ait-lablink.readthedocs.io/projects/ait-lablink-examples>`__:
+   Introducing the basic concepts of Lablink, a good starting point if you want to create your own Labling clients.
