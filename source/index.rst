@@ -47,3 +47,17 @@ For more information, please take a look :doc:`here <framework>`.
    :caption: The Lablink framework
 
    /framework
+
+
+Availability
+============
+
+The AIT Lablink is an open-source software, publicly available on `Github <https://github.com/ait-lablink>`__.
+For more information, please take a look :doc:`here <license>`.
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Availability
+
+   /availability
