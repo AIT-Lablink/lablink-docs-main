@@ -10,7 +10,7 @@ Lablink License
 
 Lablink's core and the majority of all Lablink clients are licensed under a `3-clause BSD license <https://en.wikipedia.org/wiki/BSD_licenses>`_.
 
-:: ..note:
+.. note::
     This license allows unlimited redistribution for any purpose (including commercial use) as long as the copyright notices and the license's disclaimers of warranty are maintained.
     This license is also compatible with the `GNU GPL <https://en.wikipedia.org/wiki/GNU_General_Public_License>`_.
 
