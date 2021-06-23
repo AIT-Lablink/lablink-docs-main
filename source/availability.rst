@@ -1,8 +1,13 @@
-
 Software Repository
 ===================
 
-The AIT Lablink is an open-source software, publicly available on `Github <https://github.com/ait-lablink>`_.
+The AIT Lablink is an open-source software, the source code is publicly available on `Github <https://github.com/ait-lablink>`_.
+
+
+Maven Central Repository
+========================
+
+The compiled AIT Lablink packages are available on the `Maven Central Repository <https://search.maven.org/search?q=at.ac.ait.lablink>`_.
 
 
 Lablink License

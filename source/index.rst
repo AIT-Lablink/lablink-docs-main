@@ -25,7 +25,7 @@ Getting started
 
 :doc:`Lablink in a Nutshell <lablink_in_a_nutshell>` gives a brief overview of the main concepts of the AIT Lablink.
 
-To get your fingers dirty and run a few simple Lablink setups, you can go through the `Lablink examples <https://ait-lablink.readthedocs.io/projects/ait-lablink-examples>`_.
+To get started and run a few simple Lablink setups, you can go through the `Lablink examples <https://ait-lablink.readthedocs.io/en/latest/lablink_in_a_nutshell.html#lablink-examples>`_.
 
 .. toctree::
    :maxdepth: 2
@@ -33,6 +33,20 @@ To get your fingers dirty and run a few simple Lablink setups, you can go throug
    :caption: Getting started
 
    /lablink_in_a_nutshell
+
+
+Availability
+============
+
+The AIT Lablink is an open-source software, publicly available on `Github <https://github.com/ait-lablink>`_ and the `Maven Central Repository <https://search.maven.org/search?q=at.ac.ait.lablink>`_.
+For more information, please take a look :doc:`here <license>`.
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Availability
+
+   /availability
 
 
 The Lablink framework
@@ -47,17 +61,3 @@ For more information, please take a look :doc:`here <framework>`.
    :caption: The Lablink framework
 
    /framework
-
-
-Availability
-============
-
-The AIT Lablink is an open-source software, publicly available on `Github <https://github.com/ait-lablink>`__.
-For more information, please take a look :doc:`here <license>`.
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Availability
-
-   /availability
