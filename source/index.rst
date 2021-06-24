@@ -39,7 +39,7 @@ Availability
 ============
 
 The AIT Lablink is an open-source software, publicly available on `Github <https://github.com/ait-lablink>`_ and the `Maven Central Repository <https://search.maven.org/search?q=at.ac.ait.lablink>`_.
-For more information, please take a look :doc:`here <license>`.
+For more information, please take a look :doc:`here <availability>`.
 
 .. toctree::
    :maxdepth: 2
