@@ -37,6 +37,12 @@ FMU Simulator
 
 The `FMU Simulator <https://ait-lablink.readthedocs.io/projects/ait-lablink-fmusim>`_ provides clients that can import and execute Functional Mock-up Units (FMUs).
 
+Universal Data Exchange API
+===========================
+
+The `Universal API client <https://ait-lablink.readthedocs.io/projects/ait-lablink-universal-api-client>`_ implements the `ERIGrid Universal Data Exchange API <https://erigrid2.github.io/JRA-3.1-api/universal-api.html>`_.
+This allows to interact with other Lablink clients through a simple REST interface.
+
 CSV client
 ==========
 
