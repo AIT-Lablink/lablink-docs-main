@@ -192,7 +192,9 @@ Lablink examples
 
 To get started with using Lablink, you may start with the following examples:
 
- * `OPC UA Client Test Setup <https://github.com/AIT-Lablink/lablink-opcua-client-test>`__:
+ * `OPC UA client example <https://github.com/AIT-Lablink/lablink-opcua-client-test>`__:
    A simple Lablink setup for connecting an OPC UA server with a data source and a plotter, a good starting point for  undestanding how to use the available Lablink resources for your own purposes.
  * `Lablink examples <https://ait-lablink.readthedocs.io/projects/ait-lablink-examples>`__:
    Introducing the basic concepts of Lablink, a good starting point if you want to create your own Labling clients.
+ * `Universal API client example <https://ait-lablink.readthedocs.io/projects/ait-lablink-universal-api-client/en/latest/examples.html>`__:
+   This example demonstrates the use of the Lablink client that implements the [ERIGrid Universal Data Exchange API](https://erigrid2.github.io/JRA-3.1-api/universal-api.html).
